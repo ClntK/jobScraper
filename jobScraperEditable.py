@@ -10,7 +10,9 @@ Modified By: Clint Kline
 Modifications:
     - updated to automatically detect chromedriver.exe, and install/update if earlier than v104.0.5112.79.
     - made to work with .com rather than .co.uk
-    - update to indeed.com's most recent US web layout
+    - update to parse indeed.com's most recent US web layout
+    - made list vars global to enable multi-page searches
+    - additional comments
     - this is ongoing, plans exist for additional functionality and cleaning.
 
 """
